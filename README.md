@@ -9,7 +9,9 @@
 |[이동훈](https://github.com/darkblose)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=darkblose)](https://solved.ac/darkblose)|
 |[이찬형](https://github.com/LEECHANHYUNG)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=)](https://solved.ac/)|
 
-## Programming Language :  Java, JavaScript
+## Programming Language
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 
 ## Problem Table
 
