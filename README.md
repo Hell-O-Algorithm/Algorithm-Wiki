@@ -4,7 +4,7 @@
 |이름|Solved.ac|
 |--|--|
 |[오령기](https://github.com/ryeongee)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ryeongee21)](https://solved.ac/)|
-|[최한성](https://github.com/hansung0904)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hansung0904)](https://solved.ac/)|
+|[최한성](https://github.com/hansung0904)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hsgod)](https://solved.ac/)|
 |[박유진](https://github.com/Iam-YJ)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yujin353)](https://solved.ac/)|
 |[이동훈](https://github.com/darkblose)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=darkblose)](https://solved.ac/darkblose)|
 |[이찬형](https://github.com/LEECHANHYUNG)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lch7215)](https://solved.ac/)|
