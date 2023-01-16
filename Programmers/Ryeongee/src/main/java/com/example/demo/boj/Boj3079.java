@@ -5,15 +5,15 @@ public class Boj3079 {
         int n = Integer.parseInt(data[0]);
         int m = Integer.parseInt(data[1]);
         int[] arr = new int[n];
-        int max_value = 0;
+        int maxValue = 0;
 
         for(int i=0;i<n;i++){
             arr[i] = Integer.parseInt(br.readLine());
-            max_value = Math.max(max_value, arr[i]);
+            maxValue = Math.max(maxValue, arr[i]);
         }
 
         long left = 0L;
-        long right = (max_value) * 1000000000L;
+        long right = (long) (maxValue) * 10e9;
 
         long ans = 0L;
         while (left<= right){
