@@ -1,3 +1,5 @@
+package com.example.demo.boj;
+
 import java.io.*;
 import java.util.*;
 

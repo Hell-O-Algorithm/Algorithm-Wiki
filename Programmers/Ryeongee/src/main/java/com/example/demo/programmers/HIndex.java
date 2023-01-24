@@ -1,4 +1,6 @@
-class Solution {
+import java.util.Arrays;
+
+class HIndex {
     public int solution(int[] citations) {
         int answer = 0;
         Arrays.sort(citations);
