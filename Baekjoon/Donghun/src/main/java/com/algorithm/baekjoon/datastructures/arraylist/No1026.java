@@ -1,4 +1,4 @@
-package com.algorithm.baekjoon.sort;
+package com.algorithm.baekjoon.datastructures.arraylist;
 
 import org.springframework.stereotype.Component;
 

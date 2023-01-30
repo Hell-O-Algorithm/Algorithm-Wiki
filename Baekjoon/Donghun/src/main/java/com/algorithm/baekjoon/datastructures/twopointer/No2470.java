@@ -1,4 +1,4 @@
-package com.algorithm.baekjoon.sort;
+package com.algorithm.baekjoon.datastructures.twopointer;
 
 import java.io.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.algorithm.baekjoon.twopointer;
+package com.algorithm.baekjoon.datastructures.twopointer;
 
 import java.io.BufferedReader;
 import java.io.IOException;
