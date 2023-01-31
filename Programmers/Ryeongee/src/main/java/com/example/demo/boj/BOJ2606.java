@@ -23,8 +23,8 @@ public class BOJ2606 {
         MyBFS bfs = new MyBFS(n, v, adjMatrix);
         System.out.print(bfs.getCount());
     }
-
 }
+
 class MyBFS {
     private int count = 0;
     MyBFS(int n, int v, int[][] adjMatrix){
