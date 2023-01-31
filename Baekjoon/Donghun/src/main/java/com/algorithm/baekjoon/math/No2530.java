@@ -1,4 +1,4 @@
-package com.algorithm.baekjoon.sum;
+package com.algorithm.baekjoon.math;
 
 import java.util.Scanner;
 
