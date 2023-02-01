@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayDeque;
 import java.util.Queue;
-import java.util.StringTokenizer;
 
 /**
  * -가 같은 행에 있다면 같은 나무 판자.
