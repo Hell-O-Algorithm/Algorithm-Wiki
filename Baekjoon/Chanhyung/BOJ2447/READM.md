@@ -1,4 +1,4 @@
-### 별찍기 - 10 (<a href = "https://www.acmicpc.net/problem/10830">10830</a>)
+### 별찍기 - 10 (<a href = "https://www.acmicpc.net/problem/2447">2447</a>)
 
 ---
 
