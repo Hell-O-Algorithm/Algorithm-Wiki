@@ -3,7 +3,7 @@ package com.example.demo.boj;
 import java.util.*;
 import java.io.*;
 
-public class BOJ16953 {
+public class Boj16953 {
     public static long A;
     public static long B;
 

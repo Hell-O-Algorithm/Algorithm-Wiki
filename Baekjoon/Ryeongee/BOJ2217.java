@@ -5,7 +5,7 @@
 import java.util.*;
 import java.io.*;
 
-public class BOJ2217 {
+public class Boj2217 {
     public static void main(String[] args) throws IOException{
         int answer;
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

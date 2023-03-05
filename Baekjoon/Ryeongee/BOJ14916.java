@@ -6,7 +6,7 @@
 import java.io.*;
 import java.util.*;
 
-public class BOJ14916 {
+public class Boj14916 {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());

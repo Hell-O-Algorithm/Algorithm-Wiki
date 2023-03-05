@@ -3,7 +3,7 @@ package com.example.demo.boj;
 import java.io.*;
 import java.util.*;
 
-public class BOJ2343 {
+public class Boj2343 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());

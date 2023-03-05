@@ -3,7 +3,7 @@ package com.example.demo.boj;
 import java.util.*;
 import java.io.*;
 
-public class BOJ2667 {
+public class Boj2667 {
     public static int TOTAL_COUNT = 0;
     public static int COUNT = 1;
     public static int N;

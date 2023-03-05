@@ -6,7 +6,7 @@ package com.example.demo.boj;
 
 import java.util.*;
 import java.io.*;
-public class BOJ2606 {
+public class Boj2606 {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());

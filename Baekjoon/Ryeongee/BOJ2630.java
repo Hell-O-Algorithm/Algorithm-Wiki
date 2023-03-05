@@ -6,7 +6,7 @@
 import java.io.*;
 import java.util.*;
 
-public class BOJ2630 {
+public class Boj2630 {
     private static int N;
     private static int PAPER[][];
     private static int WHITE_COUNT;

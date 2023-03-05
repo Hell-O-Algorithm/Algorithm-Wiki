@@ -6,7 +6,7 @@
 import java.util.*;
 import java.io.*;
 
-public class BOJ1992 {
+public class Boj1992 {
     private static int N;
     private static int[][] IMAGE;
     private static String RESULT = "";
